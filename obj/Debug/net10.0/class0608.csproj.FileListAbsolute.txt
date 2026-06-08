@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\class0608\class0608\bin\Debug\net10.0\class0608.exe
+C:\Users\Administrator\Desktop\class0608\class0608\bin\Debug\net10.0\class0608.deps.json
+C:\Users\Administrator\Desktop\class0608\class0608\bin\Debug\net10.0\class0608.runtimeconfig.json
+C:\Users\Administrator\Desktop\class0608\class0608\bin\Debug\net10.0\class0608.dll
+C:\Users\Administrator\Desktop\class0608\class0608\bin\Debug\net10.0\class0608.pdb
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.dll
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\refint\class0608.dll
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.pdb
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\class0608.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\class0608\class0608\obj\Debug\net10.0\ref\class0608.dll
